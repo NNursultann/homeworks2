@@ -19,13 +19,16 @@ max =Hero('Max','SuperMax',120,15)
 print(max)
 max.heal()
 print(max)
+
 victor =Hero('Victor','Tsoi_is_alive',135,10)
 print(victor)
 victor.duoble_damage()
 print(victor)
+
 kate =Hero('Kate','RATARETO',110,12)
 print(kate)
 print(kate.greetings())
+
 vanessa =Hero('Vanessa','vanny',105,9)
 print(vanessa)
 print(vanessa.brand_phrase())
